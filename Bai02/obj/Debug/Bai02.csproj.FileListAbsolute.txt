@@ -1,0 +1,38 @@
+D:\Documents\Visual Studio 2017\ThucHanh01\Bai02\bin\Debug\Bai02.exe.config
+D:\Documents\Visual Studio 2017\ThucHanh01\Bai02\bin\Debug\Bai02.exe
+D:\Documents\Visual Studio 2017\ThucHanh01\Bai02\bin\Debug\Bai02.pdb
+D:\Documents\Visual Studio 2017\ThucHanh01\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\ThucHanh01\Bai02\obj\Debug\Bai02.exe
+D:\Documents\Visual Studio 2017\ThucHanh01\Bai02\obj\Debug\Bai02.pdb
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\obj\Debug\Bai02.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\obj\Debug\Bai02.exe
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\obj\Debug\Bai02.pdb
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\Bai02.exe.config
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\Bai02.exe
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\Bai02.pdb
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\System.Buffers.dll
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\System.Memory.dll
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\System.Numerics.Vectors.dll
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\System.Text.Encodings.Web.dll
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\System.Text.Json.dll
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\System.ValueTuple.dll
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\EntityFramework.dll
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\System.Buffers.xml
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\System.Memory.xml
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\System.Numerics.Vectors.xml
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\System.Text.Encodings.Web.xml
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\System.Text.Json.xml
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\System.ValueTuple.xml
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\bin\Debug\EntityFramework.xml
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai02\obj\Debug\Bai02.csproj.CopyComplete

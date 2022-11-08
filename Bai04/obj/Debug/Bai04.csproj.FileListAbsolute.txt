@@ -1,0 +1,13 @@
+D:\Documents\Visual Studio 2017\ThucHanh01\Bai04\bin\Debug\Bai04.exe.config
+D:\Documents\Visual Studio 2017\ThucHanh01\Bai04\bin\Debug\Bai04.exe
+D:\Documents\Visual Studio 2017\ThucHanh01\Bai04\bin\Debug\Bai04.pdb
+D:\Documents\Visual Studio 2017\ThucHanh01\Bai04\obj\Debug\Bai04.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\ThucHanh01\Bai04\obj\Debug\Bai04.exe
+D:\Documents\Visual Studio 2017\ThucHanh01\Bai04\obj\Debug\Bai04.pdb
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai04\bin\Debug\Bai04.exe.config
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai04\bin\Debug\Bai04.exe
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai04\bin\Debug\Bai04.pdb
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai04\obj\Debug\Bai04.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai04\obj\Debug\Bai04.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai04\obj\Debug\Bai04.exe
+D:\Documents\Visual Studio 2017\Chuyên Dề .Net\ThucHanh01\Bai04\obj\Debug\Bai04.pdb

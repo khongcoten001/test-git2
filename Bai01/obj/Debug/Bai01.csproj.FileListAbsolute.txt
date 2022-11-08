@@ -1,0 +1,7 @@
+D:\Documents\Visual Studio 2017\ThucHanh01\ThucHanh01\bin\Debug\ThucHanh01.exe.config
+D:\Documents\Visual Studio 2017\ThucHanh01\ThucHanh01\bin\Debug\ThucHanh01.exe
+D:\Documents\Visual Studio 2017\ThucHanh01\ThucHanh01\bin\Debug\ThucHanh01.pdb
+D:\Documents\Visual Studio 2017\ThucHanh01\ThucHanh01\obj\Debug\Bai01.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\ThucHanh01\ThucHanh01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\ThucHanh01\ThucHanh01\obj\Debug\ThucHanh01.exe
+D:\Documents\Visual Studio 2017\ThucHanh01\ThucHanh01\obj\Debug\ThucHanh01.pdb
